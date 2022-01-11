@@ -1,1 +1,1 @@
-Repo pour tester différentes techno JS.
+Test de la cryptographie avec CryptoJS
